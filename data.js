@@ -31,12 +31,4 @@ export const data = [
         d: "System.out.println",
         correct: "a",
     },
-    {
-        question: "Para que serve o HTML semântico?",
-        a: "print e echo",
-        b: "console.log",
-        c: "printf",
-        d: "System.out.println",
-        correct: "a",
-    },
 ];
