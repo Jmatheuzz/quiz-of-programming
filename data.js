@@ -4,7 +4,7 @@ export const data = [
         a: "JVM",
         b: "Hardware",
         c: "VM",
-        d: "Docker",
+        d: "C",
         correct: "a",
     },
     {
